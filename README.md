@@ -1,5 +1,7 @@
 # Notes-App
 
+Notes-App is a digital application that allows users to create, store, and manage notes. It is designed to help users keep track of their ideas, thoughts, and tasks in a quick and easy way. The app provides a user-friendly interface that makes it easy to write, edit, and organize notes.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
